@@ -12,4 +12,4 @@ function factorial(n) { //A javascript function to calculate the factorial of a 
 	}
 }
 
-console.log(factorial(4));
+console.log(factorial(4)); //24
